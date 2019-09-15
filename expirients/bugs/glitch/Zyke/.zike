@@ -1,0 +1,17 @@
+var = glitch {
+
+display.Glitch = circle 
+
+{
+
+x= (aleatory (enter) (1-infinite)
+
+y= (center ( a (o (Get.position() )  )
+
+color= (color (+ (aleatory.Number((()))) ) )
+
+icon= (circle (+ (tringle (Get.pos) ) ) )
+
+
+}
+
