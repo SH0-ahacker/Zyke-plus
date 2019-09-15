@@ -1,0 +1,21 @@
+ var ={
+ 
+ type: webcam
+ name: webcam.zyke
+ creator: lagalapizza, bittur181
+ 
+ {
+ 
+ LICENCE = true 
+ 
+ type = MIT license
+ 
+ }
+ 
+ }
+ 
+ < webcam >
+ {
+ function (webcam)
+ }
+ </ webcam >
